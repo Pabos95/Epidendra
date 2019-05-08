@@ -1,0 +1,468 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta property="og:title" content="The global orchid taxonomic netwotrk" />
+<meta property="og:type" content="university" />
+<meta property="og:url" content="http://www.epidendra.org" />
+<meta property="og:image" content="http://www.epidendra.org/fotos/2012/adentro-bottom.jpg" />
+<meta property="og:site_name" content="EPIDENDRA.org" />
+<meta property="fb:admins" content="100001609783458" />
+<link href="../tools.css" type="text/css" rel="STYLESHEET">
+<!-- TemplateBeginEditable name="doctitle" -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EPOLLINARIA</title>
+<!-- TemplateEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+		banner {
+
+		 background-repeat: no-repeat;
+		}
+body {
+	background-image:  url(../fotos/2012/adentroBG.jpg);
+}
+.style1 {color: #E7E7E7}
+.style2 {color: #0000FF}
+.style4 {text-decoration:none; color:#7d715e; cursor: hand; ; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px}
+
+-->
+</style>
+<link href="../css/bootstrap-4.0.0.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body bgproperties="fixed" leftmargin="0" topmargin="0">
+<!-- DO NOT MOVE! The following AllWebMenus linking code section must always be placed right AFTER the BODY tag-->
+<!-- ******** BEGIN ALLWEBMENUS CODE FOR menu ******** -->
+<script src="../js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="../js/popper.min.js" type="text/javascript"></script>
+<script src="../js/bootstrap-4.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">var MenuLinkedBy='AllWebMenus [4]',awmMenuName='menu',awmBN='DW';awmAltUrl='';</script>
+<script charset= "UTF-8" src="../menu.js" type="text/javascript"></script>
+<script type= "text/javascript">awmBuildMenu();</script>
+	<script type= "text/javascript">
+	 (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk')</script>
+<!-- ******** END ALLWEBMENUS CODE FOR menu ******** -->
+<div id="fb-root"></div>
+	<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v3.2"></script>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<table class="parent" width="100%"  border="0" cellspacing="0" cellpadding="0" style="inline-flex;">
+  <tr>
+    <td align="center" valign="top"><table width="350" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top"><img src="../fotos/10x10.gif" width="100" height="15"></td>
+        </tr>
+        <tr>
+          <td class="banner" valign="top" background="../fotos/e-pollinariaLogotipo.jpeg" style="background-size:cover;
+																					   width:1010px;height: 512px;"><table width="90%"  border="0" cellspacing="0" cellpadding="0">
+			  </td>
+              <tr valign="top">
+                <td rowspan="2"><img src="../fotos/10x10.gif" width="2" height="141"></td>
+                <td><img src="../fotos/10x10.gif" width="1010" height="2"></td>
+              </tr>
+              <tr>
+                <div>
+                  <td valign="top"><table width="100%" height=  border="0" cellspacing="0" cellpadding="0">
+                    <!-- TemplateBeginEditable name="BANNER" -->
+                    <tr valign="top">
+  <td width="40%" align="right"><img src="../fotos/10x10.gif" width="500" height="150" border="0" usemap="#Map"></td>
+                    </tr>
+                    <tr valign="top">
+                      <td valign="bottom"><a name="awmAnchor-menu" id="awmAnchor-menu"></a></td>
+                      <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td colspan="2"><span class="titulo19"><img src="../fotos/10x10.gif" width="200" height="5"></span></td>
+                            </tr>
+						  <img src="../fotos/10x10.gif" width="300" height="95" border="0" usemap="#Map">
+                          <tr>
+                            <td width="95%"><form id="searchbox_002957403017895698234:ulverbyi5nm" action="http://www.google.com/search" target="_blank">
+                              <div align="right">
+                                <input type="hidden" name="cx" value="002957403017895698234:ulverbyi5nm" />
+                                <input type="hidden" name="cof" value="FORID:0" />
+                                <input name="q" type="text" class="formTEXTFIELD" title="... Search Names" value="... Search Names" size="27" onFocus="this.value=''" />
+                                <input name="sa" type="submit" class="formBOTTOM" value="GO" />
+                                </div>
+                            </form></td>
+                            <td width="5%" align="right" valign="top" class="titulo19"><div align="right"><img src="../fotos/10x10.gif" width="27" height="10"></div></td>
+                            </tr>
+                      </table></td>
+                    </tr>
+                  </table><!-- TemplateEndEditable --></td>
+                </div>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top" background="../fotos/2012/adentro-middleBG.jpg" bgcolor="#FFFFFF"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="15%"><img src="../fotos/10x10.gif" width="152" height="2"></td>
+                <td width="2%"><img src="../fotos/10x10.gif" width="28" height="2"></td>
+                <td width="81%"><img src="../fotos/10x10.gif" width="810" height="2"></td>
+                <td width="2%"><img src="../fotos/10x10.gif" width="23" height="2"></td>
+              </tr>
+              <tr>
+				  <!-- TemplateBeginEditable name="enlaces" -->
+                <td align="left" valign="top"><table width="100%"  border="0" cellspacing="5" cellpadding="0">
+                  <tr valign="top">
+                    <td colspan="2" valign="middle"><img src="../fotos/10x10.gif" width="144" height="20"></td>
+                    </tr>
+                  <tr valign="top">
+                    <td width="9%" valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td width="91%" valign="middle"><a href="HTTP://WWW.EPIDENDRA.ORG" class="aESPEC22">HOME</a></td>
+                  </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../taxones/index.html" class="aESPEC22">LIST OF SPECIES </a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../LITERATURE/index.htm" class="aESPEC22">LITERATURE</a></td>
+                    </tr>
+                  <tr>
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../floras/INDEX.htm" class="aESPEC22">FLORAS</a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../parquesnacionales/index.htm" class="aESPEC22">NATIONAL PARKS </a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../ORCHIDhistory/INDEX.htm" class="aESPEC22">ORCHID HISTORY</a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../NEWrecords/index.htm" class="aESPEC22">NEW RECORDS </a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../plates/index.htm" class="aESPEC22">COLLECTABLE PLATES</a></td>
+                    </tr>
+                  <tr valign="top">
+                    <td colspan="2" bgcolor="#CCCCCC"><img src="../fotos/10x10.gif" width="10" height="1"></td>
+                    </tr>
+                  <tr>
+                    <td valign="middle"><img src="../fotos/2012/1bullet.jpg" width="9" height="11"></td>
+                    <td valign="middle"><a href="../Herbarium/index.htm" class="aESPEC22">HERBARIUM</a></td>
+                  </tr>
+					<!-- TemplateEndEditable -->
+                </table>                
+                <p>&nbsp;</p>
+                </td>
+                <td valign="top">&nbsp;</td>
+                <td valign="top"> <!-- TemplateBeginEditable name="CONTENIDOS" -->
+                  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+					 <tr> <div class="fb-like" 
+    data-href="http://jbl.ucr.ac.cr/" 
+    data-layout="standard" 
+    data-action="like" 
+    data-show-faces="true">
+  </div> </tr>  
+                  <tr>
+					 
+                    <td valign="top" class="titulo1">
+                      <p class="cuerpotxt">Bienvenidos a la base de datos de polinarios del Jard&iacute;n Bot&aacute;nico Lankester. <br>
+                        La colecci&oacute;n de polinarios de orqu&iacute;deas naci&oacute; de una idea de Robert L. Dressler, quien nos propuso empezar a recolectar los polinarios de las plantas vivas de  nuestras colecciones y guardarlos para futura referencia. Desde principio, realizamos &quot;tomas&quot; digitales de los polinarios, con los m&aacute;s disparatados equipos y con los m&aacute;s dispratados resultados. Aunqe resguardada en una computadora y dos discos externos, la mayor&iacute;a de esta colecci&oacute;n de im&aacute;genes se perdi&oacute; como resultado de unos picos de tensi&oacute;n en nuestro edificio de investigaci&oacute;n, que en dos d&iacute;as destriyeron todas las memorias. Los polinarios f&iacute;sicos, guarados en sobrecitos de papel anti&aacute;cido y conservads en cajas con deshumidificantes, no tuvieron mejor suerte. Con el pasar de los a&ntilde;os, los hongos hicieron estragos de ellos... <br>
+                        Como la exigencia de una colecci&oacute;n de referencia de polinarios, as&iacute; como Bob Dressler la hab&iacute;a imaginada, segu&iacute;a sin embargo resultando relevante, nos dimos la tarea de empezarla nuevamente. Esta vez utilizamos equipos de fotograf&iacute;a y micro-fotograf&iacute;a muchos m&aacute;s sofisticados y un sistema de crio-conservaci&oacute;n de los polinarios f&iacute;sicos. Mientras que estos &uacute;ltimos pueden revisarse bajo pedido, visitando nuestro centro, las im&aacute;genes digitales de los polinarios en la colecci&oacute;n se han puesto a disposici&oacute;n de los estudiantes de la orqudeolog&iacute;a y de la biolog&iacute;a tropical a trav&eacute;s de la p&aacute;gina electr&oacute;nica de <strong><em>e-pollinaria</em></strong>. <br>
+                        Las im&aacute;genes de los polinarios pueden accesarse, actualmente, de dos diferentes formas: recorriendo la lista alfab&eacute;tica de g&eacute;neros y especies o m&aacute;s bien accesando la informaci&oacute;n seg&uacute;n un esquema de clasificaci&oacute;n filogen&eacute;tica de las Orchidaceae por subfamilias, tribus y subtribus. Proximamente <strong><em>e-pollinaria</em></strong> estar&aacute; ofreciendo tambi&eacute;n un acceso a las im&aacute;genes organizado por &quot;distribuci&oacute;n geogr&aacute;fica&quot; de los polinarios, que podr&iacute;a resultar m&aacute;s &uacute;til al bi&oacute;logo de campo 
+                      que deba identificar un dado polinario encontrado en un insecto en alguna  localidad espec&iacute;fica. </p>
+                        <p class="cuerpotxt">Welcome to the Checklist of the Orchidaceae of Honduras. The checklist is  the in-progress result of the cooperative effort between several institutions and researchers, aimed at representing the main framework for the formal treatment of Orchidaceae for the flora of Honduras. New records, historical documents, herbarium vouchers, photographs, and other materials relevant to the understanding of the rich Honduran orchd flora will continuously be added by the staff of the project. Generic placements and synonymies are those accepted by EPIDENDRA compilers.</p>
+                      <p>&nbsp;</p>
+                      <p align="center"><a href="../floras/Honduras/index_LIT.htm" target="_blank" class="aESPEC">LITERATURA SOBRE LOS POLINARIOS DE ORQU&Iacute;DEAS/ <em>LITERATURE ON ORCHID POLLINARIA</em></a></p></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><img src="../fotos/10x10.gif" width="10" height="10"></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><font size = 36><p align="left" class="titulo1">Compilaci&oacute;n y fotograf&iacute;a digital/ <em>Compilation and digital imaging</em></p></font>
+                        <div align="left"><span class="titulo11">Franco Pupulin</span><span class="cuerpotxt"> &bull; franco.pupulin@ucr.ac.cr<br>
+                          <strong class="titulo11">Diego Bogar&iacute;n</strong> &bull; diego.bogarin@ucr.ac.cr<br>
+                          <strong class="titulo11">Melissa D&iacute;az-Morales</strong> &bull; melissa.diaz_m@ucr.ac.cr <br>
+                          <span class="titulo11">Melania Fern&aacute;ndez</span> &bull; melania.fernandez@ucr.ac.cr <br>
+                          <strong class="titulo11">Adam P. Karremans</strong> &bull; adam.karremans@ucr.ac.cr<br>
+                          <span class="titulo11">Grettel Salguero </span> &bull; grettel.salguero@ucr.ac.cr                        <br>
+                          </span><span class="cuerpotxt"><br>
+                          </span>
+                        </div>
+                        <p align="center" class="cuerpotxt">
+                        <div align="center">
+                          <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                            <tr valign="top">
+                              <td width="23%">&nbsp;</td>
+                              <td width="2%"><img src="../fotos/10x10.gif" width="20" height="30"></td>
+                              <td width="25%">&nbsp;</td>
+                              <td width="2%">&nbsp;</td>
+                              <td width="23%">&nbsp;</td>
+                              <td width="2%">&nbsp;</td>
+                              <td width="23%">&nbsp;</td>
+                            </tr>
+                            <tr valign="top">
+                              <td><p class="cuerpotxt"><strong>ESPECIES DE ORQU&Iacute;DEAS<br>
+								  
+                              <em>ORCHID SPECIES</em></strong></p></td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr valign="top">
+                              <td><img src="../fotos/10x10.gif" width="185" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="15" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="185" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="15" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="185" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="15" height="10"></td>
+                              <td><img src="../fotos/10x10.gif" width="185" height="10"></td>
+                            </tr>
+                            <tr valign="top" bgcolor="DEDEDE">
+                              <td colspan="7"><img src="../fotos/10x10.gif" width="20" height="1"></td>
+                            </tr>
+                            <tr valign="top">
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr valign="top" class="cuerpotxt">
+                              <td><p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em></strong><strong class="titulo11"><em>cianthera</em></strong> <br />
+                                <strong><a href="../taxones/Acianthera/Acianthera circumplexa/index.html" target="_blank">Acianthera circumplexa</a></strong><br>
+                                <a href="../taxones/Acianthera/Acianthera geminicaulina/index.html" target="_blank"><strong>Acianthera <em>geminicaulina</em></strong></a>        <br>
+                                <em><strong><a href="../taxones/Acianthera/Acianthera hondurensis/index.html" target="_blank">Acianthera hondurensis</a></strong></em><br>
+                                <em><strong><a href="../taxones/Acianthera/Acianthera lanceana/index.html" target="_blank">Acianthera lanceana</a></strong></em><br>
+                                <strong><em><a href="../taxones/Acianthera/Acianthera oscitans/index.html" target="_blank">Acianthera oscitans</a></em></strong><br>
+                                <a href="../taxones/Acianthera/Acianthera pantasmi/index.html" target="_blank"><strong>Acianthera pantasmi</strong></a><br>
+                                <a href="../taxones/Acianthera/Acianthera sicaria/index.html" target="_blank"><strong>Acinathera sicaria</strong></a><br>
+                                Acianthera tricarinata
+                                <br>
+                                <a href="../taxones/Acianthera/Acianthera violacea/index.html"><strong>Acianthera violacea</strong></a><br>
+                                </p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em></strong><strong class="titulo11"><em>cronia</em></strong> <br />
+                                <em><a href="../taxones/Pleurothallis/Pleurothallis hawkinsii/Acronia hawkinsii/index.html" target="_blank">Acronia hawkinsii</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em>rpophyllum</strong><br />
+                                  <em>Arpophyllum alpinum<br>
+                                <a href="../taxones/Arpophyllum/Arpophyllum giganteum/index.html" target="_blank"><strong>Arpophylum giganteum</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em>spasia</strong><br />
+                                <em><a href="../taxones/Aspasia/Aspasia epidendroides/index.html" target="_blank"><strong>Aspasia epidendroides</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em>spidogyne</strong><br />
+                                  <em><a href="../taxones/Aspidogyne/Aspidogyne stictophylla/index.html" target="_blank"><strong>Aspidogyne stictophylla</strong></a><br>
+                                <a href="../taxones/Aspidogyne/Aspidogyne tuerckheimii/index.html" target="_blank"><strong>Aspidogyne tuerckheimii </strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>A</em>ulosepalum</strong><br />
+                                <em>Aulosepalum pulchrum</em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11">Barbosella</strong><br />
+                                <em><a href="../taxones/Barbosella/Barbosella prorepens/index.html" target="_blank"><strong>Barbosella prorepens</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11">Barkeria</strong><br />
+                                  <a href="../taxones/Barkeria/Barkeria lindleyana/Epidendrum lindleyanum/index.html" target="_blank"><strong>Barkeria lindleyana</strong></a><br>
+                                <em><a href="../taxones/Barkeria/Barkeria lindleyana/Barkeria lindleyana var centerae/index.html" target="_blank">Barkeria lindleyana</a></em><a href="../taxones/Barkeria/Barkeria lindleyana/Barkeria lindleyana var centerae/index.html">&nbsp;<span class="cuerpotxtITAL22">var.</span>&nbsp;<em>centerae</em> </a></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Bletia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                  <em><strong><a href="../taxones/Bletia/Bletia edwardsii/index.html" target="_blank">Bletia edwardsii<br>
+                                  </a></strong><a href="../taxones/Bletia/Bletia roezlii/Bletia papillifera/index.html" target="_blank">Bletia papillifera</a><strong><a href="../taxones/Bletia/Bletia roezlii/index.html" target="_blank"><br>
+                                  Bletia roezlii
+                                </a></strong></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11">Chysis</strong><br />
+                                  <em><strong><a href="http://www.epidendra.org/taxones/Chysis/Chysis%20bruennowiana/index.html" target="_blank">Chysis bruennowiana</a></strong><br>
+                                </em><a href="http://www.epidendra.org/taxones/Chysis/Chysis%20bruennowiana/Chysis%20costaricensis/index.html" target="_blank">Chysis costaricensis</a></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11">Deiregyne</strong><br />
+                                  <em>Deiregyne pulchra</em><br>
+                                Deiregyne nelsonii <span class="cuerpotxtITAL22">subsp.</span> pulchra      </p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Dichaea</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Dichaea/Dichaea squarrosa/index.html" target="_blank"><strong>Dichaea squarrosa</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Didactylus</em></strong><br />
+                                  <a href="../taxones/Acianthera/Acianthera oscitans/Didactylus oscitans/index.html" target="_blank">Didactylus oscitans</a><br>
+                                </p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Effusiell</em></strong><strong class="titulo11"><em>a</em></strong> <br />
+                                <em><a href="../taxones/Stelis/Stelis thomasii /Effusiella thomasii/index.html" target="_blank">Effusiella thomasii</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Encyclia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Prosthechea/Prosthechea brassavolae/Encyclia brassavolae/index.html" target="_blank">Encyclia brassavolae</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Epidendrum</em></strong><strong class="titulo11"><em></em></strong> <br>
+                                  <em><a href="../taxones/Prosthechea/Prosthechea brassavolae/Epidendrum brassavolae/index.html" target="_blank">Epidendrum brassavolae</a><br>
+                                  <strong><a href="../taxones/Epidendrum/Epidendrum comayaguense/index.html" target="_blank">Epidendrum comayaguense</a><br>
+                                  <a href="../taxones/Epidendrum/Epidendrum cystosum/index.html" target="_blank">Epidendrum cystosum</a><br>
+                                  <a href="../taxones/Epidendrum/Epidendrum dilochioides/index.html" target="_blank">Epidendrum dilochioides</a></strong><a href="../taxones/Epidendrum/Epidendrum dilochioides/index.html"></a></em><em><a href="../taxones/Epidendrum/Epidendrum dilochioides/index.html" target="_blank"><br>
+                                  </a><a href="../taxones/Epidendrum/Epidendrum doroteae/index.html" target="_blank"><strong>Epidendrum</strong> <span class="cuerpotxtITAL22">x</span> <strong>doroteae</strong></a>        </em>      <br>
+                                  <a href="../taxones/Epidendrum/epidendrum edwardsii/index.html" target="_blank"><strong>Epidendrum edwardsii</strong></a><br>
+                                <a href="../taxones/Barkeria/Barkeria lindleyana/index.html" target="_blank">Epidendrum lindleyanum      </a></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Eremophila</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Triphora/Triphora debilis/Eremophila debilis/index.html" target="_blank">Eremophila debilis</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Erythrodes</em></strong><br />
+                                  <em><a href="../taxones/Aspidogyne/Aspidogyne stictophylla/Erythrodes stictophylla/index.html" target="_blank">Erythrodes stictophylla</a></em><br>
+                                <em><a href="../taxones/Aspidogyne/Aspidogyne tuerckheimii/Erythrodes tuerckheimii/index.html" target="_blank">Erythrodes </a></em>       <a href="../taxones/Aspidogyne/Aspidogyne tuerckheimii/Erythrodes tuerckheimii/index.html"><em>tuerckheimii</em></a><em></em></p>
+                                <p class="cuerpotxtITAL">&nbsp;</p>
+                                <p class="cuerpotxtITAL">&nbsp;</p>
+                              <p class="cuerpotxtITAL">&nbsp;</p></td>
+                              <td><img src="../fotos/10x10.gif" width="10" height="10" class="style1"></td>
+                              <td><p class="cuerpotxtITAL"><strong class="titulo11"><em>Gyrostachys</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Gyrostachys schaffneri/index.html" target="_blank">Gyrostachys </a><em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Pelexia schaffneri/index.html">schaffneri</a></em></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Habenaria</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Habenaria/Habenaria hondurensis/index.html" target="_blank"><strong>Habenaria hondurensis</strong></a></em>      </p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Hexadesmia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Scaphyglottis/Scaphyglottis hondurensis/Hexadesmia hondurensis/index.html" target="_blank">Hexadesmia hondurensis</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Hormidium</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Prosthechea/Prosthechea brassavolae/Hormidium brassavolae/index.html" target="_blank">Hormidium brassavolae</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Humboldtia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                  <em><a href="../taxones/Acianthera/Acianthera circumplexa/Humboldtia circumplexa/index.html" target="_blank">Humboldtia circumplexa</a><a href="../taxones/Acianthera/Acianthera lanceana/Humboltia lanceana/index.html" target="_blank"><br>
+                                  Humboldtia lanceanam<br>
+                                  </a><a href="../taxones/Acianthera/Acianthera pantasmi/Humboldtia pantasmii/index.html" target="_blank">Humboldtia pantasmi</a><a href="../taxones/Acianthera/Acianthera lanceana/Humboltia lanceana/index.html" target="_blank"><br>
+                                  </a><a href="../taxones/Acianthera/Acianthera sicaria/Humboltia sicaria/index.html" target="_blank">Humboldtia sicaria</a><a href="../taxones/Acianthera/Acianthera lanceana/Humboltia lanceana/index.html" target="_blank"><br>
+                                </a><a href="../taxones/Acianthera/Acianthera violacea/Humboldtia violacea/index.html" target="_blank">Humboldtia violacea</a></em></p>
+                                <strong class="titulo11"><em>Leaoa</em></strong> <br />
+                                <em><a href="../taxones/Scaphyglottis/Scaphyglottis hondurensis/Leaoa hondurensis/index.html" target="_blank">Leaoa hondurensis</a><a href="../taxones/Ornithocephalus/Ornithocephalus numenius/index.html" target="_blank"></a></em>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Lophiaris</em></strong> <br />
+                                <strong><em><a href="../taxones/Lophiaris/Lophiaris oerstelurida/index.html" target="_blank">Lophiaris </a></em></strong><a href="../taxones/Ornithocephalus/Ornithocephalus numenius/index.html" target="_blank" class="cuerpotxtITAL22">x</a><strong><em><a href="../taxones/Ornithocephalus/Ornithocephalus numenius/index.html" target="_blank"> oerstelurida</a></em></strong></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Maxillaria</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><strong><a href="../taxones/Maxillaria/Maxillaria reichenheimiana/index.html" target="_blank">Maxillaria reichenheimiana</a></strong></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Mormodes</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><strong><a href="../taxones/Mormodes/Mormodes nagelii/index.html" target="_blank">Mormodes nagelii</a></strong></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Ornithocephalus</em></strong> <br />
+                                <strong><em><a href="../taxones/Ornithocephalus/Ornithocephalus numenius/index.html" target="_blank">Ornithocephalus numenius</a></em></strong></p>
+  <p>&nbsp;</p></td>
+                              <td>&nbsp;</td>
+                              <td><p class="cuerpotxtITAL"><strong class="titulo11"><em><strong class="titulo11"><em>Panarica</em></strong><br />
+                                </em></strong><em><em><a href="../taxones/Prosthechea/Prosthechea brassavolae/Panarica brassavolae/index.html" target="_blank">Panarica brassavolae</a></em></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em><strong class="titulo11"><em>Pelexia</em></strong><br />
+                                </em></strong><em><em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Pelexia schaffneri/index.html">Pelexia schaffneri</a></em></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11">Physurus</strong><br />
+                                <em> <a href="../taxones/Aspidogyne/Aspidogyne tuerckheimii/Physurus tuerckheimii/index.html" target="_blank">Physurus tuerckheimii</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Pleurothallis</em></strong> <br />
+                                  <a href="../taxones/Acianthera/Acianthera circumplexa/Pleurothallis circumplexa/index.html" target="_blank">Pleurothallis circumplexa</a><strong><a href="../taxones/Pleurothallis/Pleurothallis hawkinsii/index.html" target="_blank"><br>
+                                  </a></strong><a href="../taxones/Acianthera/Acianthera geminicaulina/Pleurothallis geminicaulina/index.html" target="_blank">Pleurothallis geminicaulina </a><strong><a href="../taxones/Pleurothallis/Pleurothallis hawkinsii/index.html" target="_blank">        <br>
+                                  Pleurothallis hawkinsii</a></strong><br>
+                                  <a href="../taxones/Acianthera/Acianthera hondurensis/Pleurothallis hondurensis/index.html" target="_blank">Pleurothallis hondurensis</a> <a href="../taxones/Acianthera/Acianthera lanceana/Pleurothallis lanceana/index.html" target="_blank">Pleurothallis lanceana</a><br>
+                                  <a href="../taxones/Barbosella/Barbosella prorepens/Pleurothallis prorepens/Pleurothallis monstrabilis/index.html" target="_blank">Pleurothallis monstrabilis</a><br>
+                                  <a href="../taxones/Acianthera/Acianthera oscitans/Pleurothallis oscitans/index.html" target="_blank">Pleurothallis oscitans</a><br>
+                                  <a href="../taxones/Acianthera/Acianthera pantasmi/Pleurothallis pantasmii/index.html" target="_blank">Pleurothallis pantasmi</a><br>
+                                  <a href="../taxones/Barbosella/Barbosella prorepens/Pleurothallis prorepens/index.html" target="_blank">Pleurothallis prorepens</a><br>
+                                  <a href="../taxones/Acianthera/Acianthera sicaria/Pleurothallis sicaria/index.html" target="_blank">Pleurothallis sicaria</a><br>
+  <a href="../taxones/Specklinia/Specklinia spectabilis/index.html" target="_blank">Pleurothallis spectabilis</a><br>
+                                  <em><a href="../taxones/Stelis/Stelis thomasii /Pleurothallis thomasii/index.html" target="_blank">Pleurothallis  thomasii</a></em><br>
+                                  Pleurothallis tricarinata
+                                  <br>
+                                <a href="../taxones/Acianthera/Acianthera geminicaulina/Pleurothallis geminicaulina/index.html" target="_blank">Pleurothallis violacea</a></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Pogonia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Triphora/Triphora debilis/Pogonia debilis/index.html" target="_blank">Pogonia debilis</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Potosia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Potosia schaffneri/index.html" target="_blank">Potosia </a><em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Pelexia schaffneri/index.html">schaffneri</a></em></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Prosthechea</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Prosthechea/Prosthechea brassavolae/index.html" target="_blank"><strong>Prosthechea brassavolae</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em><strong class="titulo11"><em>Pseudencyclia</em></strong><br />
+                                </em></strong><em><em><a href="../taxones/Prosthechea/Prosthechea brassavolae/Pseudencyclia brassavolae/index.html" target="_blank">Pseudencyclia brassavolae</a></em></em></p>
+                                <p class="cuerpotxtITAL"><span class="cuerpotxtITAL">&nbsp;</span><br />
+                                  <br />
+  </p></td>
+                              <td>&nbsp;</td>
+                              <td><p class="cuerpotxtITAL"><strong class="titulo11"><em>Restrepia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Barbosella/Barbosella prorepens/Restrepia prorepens/index.html" target="_blank">Restrepia prorepens</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Sarcoglottis</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/index.html" target="_blank"><strong>Sarcoglottis schaffneri</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Scaphyglottis</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Scaphyglottis/Scaphyglottis hondurensis/index.html" target="_blank"><strong>Scaphyglottis hondurensis</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Sobralia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                  <em><strong><a href="http://www.epidendra.org/taxones/Sobralia/Sobralia%20powellii/index.html" target="_blank">Sobralia powellii</a><a href="../taxones/Sobralia/Sobralia yaninae/index.html" target="_blank"><br>
+                                Sobralia yaninae</a></strong></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Specklinia</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                  <em><a href="../taxones/Specklinia/Specklinia spectabilis/index.html" target="_blank"><strong>Specklinia spectabilis</strong><br>
+                                Specklinia thomasiae</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Spiranthes</em></strong><strong class="titulo11"><em></em></strong><em><a href="../taxones/Sarcoglottis/Sarcoglottis schaffneri/Spiranthes schaffneri/index.html" target="_blank"><br>
+                                  Spiranthes schaffneri</a></em><br>
+                                Spiranthes pulchra</p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Stelis</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><strong><a href="../taxones/Stelis/Stelis thomasii /index.html" target="_blank">Stelis thomasii</a></strong></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Trichocentrum</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Lophiaris/Lophiaris oerstelurida/Trichocentrum oersteluridum/index.html" target="_blank">Trichocentrum </a><a href="../taxones/Ornithocephalus/Ornithocephalus numenius/index.html" target="_blank" class="cuerpotxtITAL22">x</a><a href="../taxones/Stelis/Stelis thomasii /index.html" target="_blank"> oersteluridum</a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Triphora</em></strong><strong class="titulo11"><em></em></strong> <br />
+                                <em><a href="../taxones/Triphora/Triphora debilis/index.html" target="_blank"><strong>Triphora debilis</strong></a></em></p>
+                                <p class="cuerpotxtITAL"><strong class="titulo11"><em>Vanilla</em></strong><strong class="titulo11"><em></em></strong> <br />
+                              <em><a href="../taxones/Vanilla/Vanilla insignis/index.html" target="_blank"><strong>Vanilla insignis</strong></a></em></p></td>
+                            </tr>
+                            <tr valign="top" class="cuerpotxt">
+                              <td><img src="../fotos/10x10.gif" width="20" height="20"></td>
+                            </tr>
+                            <tr valign="top" bgcolor="dedede" class="cuerpotxt">
+                              <td colspan="7"><img src="../fotos/10x10.gif" width="20" height="1"></td>
+                            </tr>
+                            <tr valign="top" class="cuerpotxt">
+                              <td><img src="../fotos/10x10.gif" width="20" height="20"></td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+  </table>
+							
+                      </div></td>
+                    </tr>
+                  </table>
+                <!-- TemplateEndEditable --> </td>
+              </tr>
+              <tr>
+                <td valign="top"><div align="center">
+                  <table width="100%"  border="0" cellspacing="0" cellpadding="6">
+                    <tr>
+                    </tr>
+                  </table>
+                </div></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td valign="top" bgcolor="#FFFFFF"><img src="../fotos/2012/adentro-bottom.jpg" width="1012" height="104" border="0" usemap="#Map2"></td>
+        </tr>
+      </table>
+        <p class="menuX"> &copy; 2018 Jard&iacute;n Bot&aacute;nico Lankester . Universidad de Costa Rica - Tel. 2511-7931 <span class="pie style1">....</span> Desarollo <a href="http>/www.tools.co.cr" target="_blank" class="menuX style2">TOOLS</a> </p></td>
+  </tr>
+</table>
+	<map name="Map">
+<map name="Map">
+  <area shape="rect" coords="257,53,331,84" href="../contacto.html" alt="CONTACTO">
+  <area shape="rect" coords="276,-3,345,20" href="http://www.epidendra.org" alt="HOME">
+  <area shape="rect" coords="276,19,343,35" href="../links.html" alt="LINKS">
+  <area shape="rect" coords="265,35,345,53" href="../about.html">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="912,5,1009,91" href="http://www.jbl.ucr.ac.cr" target="_blank" alt="LANKESTER BOTANICAL GARDEN WEBSITE">
+  <area shape="rect" coords="815,4,908,95" href="http://www.ucr.ac.cr" target="_blank" alt="UNIVERSIDAD DE COSTA RICA">
+</map>
+</body>
+</html>

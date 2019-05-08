@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>D2474</title>
+<!-- TemplateEndEditable --><LINK href="../tools.css" type=text/css rel=STYLESHEET>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	background-image:   url(../fotos/2012/adentroBG.jpg);
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<script type="text/javascript">
+function openPictureWindow_Fever(imageType,imageName,imageWidth,imageHeight,alt,posLeft,posTop) {  // v4.01
+	newWindow = window.open("","newWindow","width="+imageWidth+",height="+imageHeight+",scrollbars=no,left="+posLeft+",top="+posTop);
+	newWindow.document.open();
+	newWindow.document.write('<html><title>'+alt+'</title><body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" onBlur="self.close()">'); 
+	if (imageType == "swf"){
+	newWindow.document.write('<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0\" width=\"'+imageWidth+'\" height=\"'+imageHeight+'\">');
+	newWindow.document.write('<param name=movie value=\"'+imageName+'\"><param name=quality value=high>');
+	newWindow.document.write('<embed src=\"'+imageName+'\" quality=high pluginspage=\"http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\"'+imageWidth+'\" height=\"'+imageHeight+'\">');
+	newWindow.document.write('</embed></object>');	}else{
+	newWindow.document.write('<img src=\"'+imageName+'\" width='+imageWidth+' height='+imageHeight+' alt=\"'+alt+'\">'); 	}
+	newWindow.document.write('</body></html>');
+	newWindow.document.close();
+	newWindow.focus();
+}
+</script>
+</head>
+
+<body topmargin="0" leftmargin="0" bgproperties="fixed">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table width="1009" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="1009" valign="top"><img src="../fotos/10x10.gif" width="100" height="15"></td>
+      </tr>
+      <tr>
+        <td valign="top" background="../fotos/2012/herbariumBG.jpg"><a href="../Herbarium/index.htm"><img src="../fotos/2012/herbariumheader.jpg" alt="HOME" width="1009" height="136" border="0" usemap="#Map" href="#"></a>
+          </td>
+      </tr>
+      <tr>
+        <td background="../fotos/2012/herbariumBG.jpg" bgcolor="#FFFFFF"><table width="95%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+          <tr>
+            <td width="30" rowspan="3" valign="top"><img src="../fotos/10x10.gif" width="30" height="20"></td>
+            <td valign="top" class="cuerpotxt"><img src="../fotos/10x10.gif" width="697" height="2"></td>
+            <td width="20" rowspan="2" valign="top"><img src="../fotos/10x10.gif" width="20" height="20"></td>
+            <td width="247" rowspan="2" valign="top"><!-- TemplateBeginEditable name="fotos" -->
+              <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><img src="../fotos/10x10.gif" width="100" height="55"></td>
+                </tr>
+                <tr>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><img src="../fotos/10x10.gif" width="100" height="15"></td>
+                </tr>
+                <tr>
+                  <td class="linkFEVER">CLICK the picture to enlarge </td>
+                </tr>
+              </table>
+              <a href="#"><img src="../taxones/Brenesia/Brenesia stonei/bogarin_5515_only.jpg" alt="Brenesia stonei" width="200" height="200" border="0" onClick="openPictureWindow_Fever('','../../../../taxones/Brenesia/Brenesia stonei/bogarin_5515_only.jpg','800','800','D2474','','')"></a> <!-- TemplateEndEditable --></td>
+            <td width="20" rowspan="2" valign="top"><img src="../fotos/10x10.gif" width="20" height="20"></td>
+          </tr>
+          <tr>
+            <td width="693" valign="top" class="cuerpotxt"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top"><!-- TemplateBeginEditable name="CONTENIDOS" -->
+                      <table width="100%"  border="0" cellspacing="6" cellpadding="6">
+                        <tr valign="top">
+                          <td colspan="3" class="titulo1"><em>Echinosepala stonei</em><em></em></td>
+                        </tr>
+                        <tr valign="top">
+                          <td bgcolor="#F0F0F0"><span class="menuINF">JBL ACCESSION NUMBER : </span><strong>D2474</strong></td>
+                          <td width="3%" rowspan="5"><img src="../fotos/10x10.gif" width="2" height="20"><img src="../fotos/10x10.gif" width="1" height="10"></td>
+                          <td bgcolor="#F0F0F0"><span class="menuINF">TYPE: </span>-- --</td>
+                        </tr>
+                        <tr valign="top">
+                          <td bgcolor="#F0F0F0"><span class="menuINF">LOCALITY DATA <span class="menuX">:</span> </span>Costa Rica. Cartago: Para&iacute;so<br>
+                              <span class="menuX">* To mantain confidentiality about the exact ubication of threatened orchids populations, complete data will be sent on request only to bona fide researchers and institutions. </span></td>
+                          <td bgcolor="#F0F0F0"><span class="menuINF">NOTES: </span>-- --</td>
+                        </tr>
+                        <tr valign="top">
+                          <td width="56%" bgcolor="#F0F0F0"><span class="menuINF">COLLECTOR AND NUMBER :</span><em> D. Bogar&iacute;n 5515</em></td>
+                          <td bgcolor="#F0F0F0"><span class="menuINF">DET.:</span> F. Pupulin, I-2010</td>
+                        </tr>
+                        <tr valign="top">
+                          <td bgcolor="#F0F0F0"><span class="menuINF">COLLECTION DATE:</span> 13.11.2008</td>
+                          <td bgcolor="#F0F0F0" class="menuINF">&nbsp;</td>
+                        </tr>
+                        <tr valign="top">
+                          <td bgcolor="#F0F0F0"><span class="menuINF">PREPARATION DATE: </span>-- --</td>
+                          <td width="41%" bgcolor="#F0F0F0" class="menuINF"><a href="http://www.epidendra.org/taxones/Brenesia/Brenesia stonei/index.html#" target="_blank">EPIDENDRA</a></td>
+                        </tr>
+                      </table>
+                    <!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><div align="center"><img src="../fotos/10x10.gif" width="100" height="20"></div></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="1%" rowspan="2" align="center" valign="top"><img src="../fotos/10x10.gif" width="10" height="10"></td>
+                        <td width="99%" align="center" valign="top"><div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    var imageSearchOptions = {};
+    imageSearchOptions['layout'] = google.search.ImageSearch.LAYOUT_POPUP;
+    customSearchOptions['enableImageSearch'] = true;
+    customSearchOptions['imageSearchOptions'] = imageSearchOptions;  var customSearchControl = new google.search.CustomSearchControl(
+      '002957403017895698234:4ej2vwlszci', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    options.enableSearchboxOnly("http://www.epidendra.org/Herbarium/search.htm");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+  onFocus="this.value=''"
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" /></td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top"><img src="../fotos/10x10.gif" width="50" height="20"></td>
+                      </tr>
+                    </table></td>
+                  </tr>
+                </table>                </td>
+          </tr>
+          <tr>
+            <td colspan="4" valign="top">
+              <div align="left"><img src="../fotos/10x10.gif" width="100" height="20"></div></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img src="../fotos/2012/herbariumfooter.jpg" width="1009" height="105" border="0" usemap="#Map2"></td>
+      </tr>
+    </table>
+    
+    <div align="center"></div></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="932,41,1003,63" href="../contacto.html">
+  <area shape="rect" coords="880,1,1009,41" href="../Herbarium/index.htm">
+</map>
+<map name="Map2">
+  <area shape="rect" coords="916,5,1018,89" href="http://www.jbl.ucr.ac.cr" target="_blank">
+  <area shape="rect" coords="748,30,905,93" href="http://www.ucr.ac.cr" target="_blank">
+</map>
+</body>
+</html>
