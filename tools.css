@@ -1,0 +1,77 @@
+sup { color: #333333; } 
+ 
+A {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration:none; color:#0033cc} 
+A:hover {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; text-decoration:underline; font-weight: normal; color:#000000 ; cursor: hand} 
+A:visited { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color:#0033cc} 
+
+
+.menuINF { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #999999} 
+
+.titulo1 { font-family: Arial, Helvetica, sans-serif; font-size: 20px; 
+font-weight: bold; color: #05427E; text-transform: none; line-height: 90%} 
+
+.cuerpotxt { font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 
+130%; text-align: justify; font-style: normal; font-weight: normal; font-variant: 
+normal; color: #333333; letter-spacing: normal; vertical-align: top; word-spacing: 
+normal; white-space: normal; cursor: auto} 
+
+.cuerpotxtBOLD { font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 
+130%; text-align: justify; font-style: normal; font-weight: bold; color: #0033cc; letter-spacing: normal; vertical-align: top; word-spacing: 
+normal; white-space: normal; cursor: auto} 
+
+.titulo11 { font-family:  Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; color: #000000; text-align:left} 
+
+.cuerpotxtITAL { font-family:  Arial, Helvetica, sans-serif; font-size: 12px; line-height:120%; text-align: left; font-style: italic; font-weight: normal; color: #001A20; letter-spacing: normal} 
+
+.cuerpotxtITAL22 { font-family:  Arial, Helvetica, sans-serif; font-size: 12px; line-height:120%; text-align: left; font-style: normal; font-weight: normal; color: #001A20; letter-spacing: normal} 
+
+.formBOTTOM { font-family: Verdana; font-weight: bold; font-size: 8pt; border-color: #dedede; cursor: help; background-color: 
+#03294E; color: #ffffff } 
+
+.formTEXTFIELD { font-family: Verdana; font-weight: NORMAL; font-size: 8pt; border-color: #dedede; background-color: #ffffff; color: 
+#000000 } 
+
+.menuX { font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 130%; color: #666666} 
+
+.menuY { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #006699} 
+.tituloVACIADO { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF} 
+.TITULOinsider { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #FFFFFF} 
+.titulovaciadoPEQ { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF} 
+
+.pie { font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #999999} 
+
+.docs { font-family: Verdana, Arial, Helvetica, sans-serif; line-height:120%; font-size: 13px; color: #666666; line-height: 100%} 
+
+.aESPEC:hover  { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; FONT-STYLE: 
+normal; FONT-WEIGHT: bold; color:#7d715e ; cursor: hand; } 
+.aESPEC { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; text-decoration:underline; 
+FONT-WEIGHT: normal; color:#7d715e; cursor: hand; ; font-family: Verdana, Arial, 
+Helvetica, sans-serif; font-size: 13px}
+.aESPEC:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; FONT-STYLE: normal; FONT-WEIGHT: normal; 
+color:#7d715e ; cursor: hand; } 
+
+.a3:hover { font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration:underline; color:#FFFFFF } 
+.a3 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#CCCCCC; font-weight: bold; letter-spacing: 4px; word-spacing: 6px}
+.a3:visited { font-family: Arial, Helvetica, sans-serif; font-size: 11px; color:#C0D1D6 } 
+
+
+.aXX:hover { font-family: Arial, Helvetica, sans-serif; font-size: 18px; text-decoration:underline;  font-weight: bold; color:#FF0000 } 
+.aXX { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color:#05427E; font-weight: bold; letter-spacing: 4px; word-spacing: 6px}
+.aXX:visited { font-family: Arial, Helvetica, sans-serif; font-size: 16px; color:#05427E } 
+
+
+.a4:hover { font-family: verdana, Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; font-size: 12px; color:#CC0033 } 
+.a4 { font-family: verdana, Arial, Helvetica, sans-serif; font-size: 12px; color:#CC0033; }
+.a4:visited { font-family: verdana, Arial, Helvetica, sans-serif; font-size: 12px; color:#CC0033 }
+
+.linkFEVER { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #CC0033; cursor: hand} 
+
+.tickerTIT { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #CC0000; cursor: crosshair} 
+
+.tickerTXT { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #999999; cursor: hand} 
+
+.AMPLIAR {  cursor: hand}
+
+.notaCENTRO {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; text-align: center}
+
+.tit2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #666666; line-height: 85%; text-align: left}
